@@ -1,0 +1,14 @@
+body {
+  font-size: 3rem;
+  font-family: 'Kanit', sans-serif;
+  margin: 30px;
+  background-image: url("/Resources/universe1.jpg");
+  background-size: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+/*img {
+  max-width: 100%;
+  height: auto;
+}*/
